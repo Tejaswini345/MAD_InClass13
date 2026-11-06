@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686823926147",
+    "project_id": "madinclass13-auth-lab",
+    "storage_bucket": "madinclass13-auth-lab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686823926147:android:276872de9b4afa933deeb6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth_lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA21ZAe2Lu7AgFNuBghYl1dQjKAanwWnwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
